@@ -1,1 +1,2 @@
-let a = 5;
+let a = 15;
+let b = 22;
